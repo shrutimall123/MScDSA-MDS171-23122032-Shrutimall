@@ -1,6 +1,2 @@
-Customer: Riya
-Order: pizza
-
-Customer: Riya PC
-Order: burger
-
+pizza
+burger
