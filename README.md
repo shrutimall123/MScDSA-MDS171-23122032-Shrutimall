@@ -16,3 +16,4 @@ Email: shruti.mall@msds.christuniversity.in
 |3.|01-09-23|lab03|The Tale of Numbers' Harmony|
 |4.|04-09-23|lab04|A Taste of Success: The Restaurant Management System|
 |5.|08-09-23|lab05|Mix & Match Calculator|
+|6.|11-09-23|lab06|Vowel Counter!|
