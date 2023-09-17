@@ -17,4 +17,4 @@ Email: shruti.mall@msds.christuniversity.in
 |4.|04-09-23|lab04|A Taste of Success: The Restaurant Management System|
 |5.|08-09-23|lab05|Mix & Match Calculator|
 |6.|11-09-23|lab06|Vowel Counter!|
-|7.|15-09-23|lab06|My Menu Driven Restaurant|
+|7.|15-09-23|lab07|My Menu Driven Restaurant|
