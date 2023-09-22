@@ -18,4 +18,5 @@ Email: shruti.mall@msds.christuniversity.in
 |5.|08-09-23|lab05|Mix & Match Calculator|[Lab05](https://github.com/shrutimall123/MScDSA-MDS171-23122032-Shrutimall/blob/c08d36a945a3d7c5e76b7cafc7289846f3d4104f/lab05/lab05.ipynb)
 |6.|11-09-23|lab06|Vowel Counter!|[Lab06](https://github.com/shrutimall123/MScDSA-MDS171-23122032-Shrutimall/blob/c08d36a945a3d7c5e76b7cafc7289846f3d4104f/lab06.ipynb)
 |7.|15-09-23|lab07|My Menu Driven Restaurant|[Lab07](https://github.com/shrutimall123/MScDSA-MDS171-23122032-Shrutimall/blob/c08d36a945a3d7c5e76b7cafc7289846f3d4104f/lab07.ipynb)
-|8.|18-09-23|lab08|Matrix Multiplication|[Lab08]
+|8.|18-09-23|lab08|Matrix Multiplication|[Lab08]()
+|9.|22-09-23|lab09|Expense Tracker|[Lab09]()
