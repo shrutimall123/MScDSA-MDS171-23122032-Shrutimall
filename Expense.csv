@@ -1,21 +1,2 @@
-Type,Category,Cost,Description,Date
-Income,Salary,200000,Monthly Salary,12-08-2023
-Income,Bonus,10000,I got my Diwali Bonus,13-08-2023
-Expense,Food,200,I orderd food from the market,14-08-2023
-Expense,Travel,12000,I went to Mahabaleshwar,15-08-2023
-Expense,Health,1500,I went to doctor for my routine checkup,16-08-2023
-Expense,Bill,500,Paid internet Bill,17-08-2023
-Expense,Dining Out,500,Had dinner with my family,18-08-2023
-Expense,Groceries,2500,Bought some necessary grocery,19-08-2023
-Income,Extra Income,50000,I have rented my apartment,20-08-2023
-Income,Dividend,3000,I got mt first dividend,21-08-2023
-Expense,Bill,2400,Paid internet Bill,22-08-2023
-Expense,Bill,1200,Paid water Bill,23-08-2023
-Expense,Bill,1000,Paid Bill,24-08-2023
-Expense,Dining Out,500,Went to eat outside,25-08-2023
-Expense,Travel,15000,Visited Jammu & Kashmir,26-08-2023
-Expense,Miscellaneous,130,Gave money to my housemaid,27-08-2023
-Expense,Travel,20000,Visited Manali,28-08-2023
-Expense,Movie,500,Jawan movie,29-08-2023
-Expesse,Food,400,Ordered food,30-08-2023
-Expense,Health,2000,Went to doctor for monthly checkup,31-08-2023
+Type,Expense Category,Cost,Description,Date
+Income,Salary,300000,Got my salary,09/30/2023
