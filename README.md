@@ -20,4 +20,5 @@ Email: shruti.mall@msds.christuniversity.in
 |7.|15-09-23|lab07|My Menu Driven Restaurant|[Lab07](https://github.com/shrutimall123/MScDSA-MDS171-23122032-Shrutimall/blob/c08d36a945a3d7c5e76b7cafc7289846f3d4104f/lab07.ipynb)
 |8.|18-09-23|lab08|Matrix Multiplication|[Lab08]()
 |9.|22-09-23|lab09|Expense Tracker|[Lab09](https://github.com/shrutimall123/MScDSA-MDS171-23122032-Shrutimall/blob/2a1bba44b2da27a91410f6e440517c1a60f4ba64/lab09.ipynb)
-|9.|22-09-23|CAC2|Exploratory Data Analysis|[CAC2](https://github.com/shrutimall123/MScDSA-MDS171-23122032-Shrutimall/tree/520e895f4827a71165c2a7af5024a149b3548a5f/CAC/cac2)
+|10.|22-09-23|CAC2|Exploratory Data Analysis|[CAC2](https://github.com/shrutimall123/MScDSA-MDS171-23122032-Shrutimall/tree/520e895f4827a71165c2a7af5024a149b3548a5f/CAC/cac2)
+|11.|26-10-23|lab07|Student Details|[Lab 10](https://github.com/shrutimall123/MScDSA-MDS171-23122032-Shrutimall/blob/d7b2c3206c295327408a32bfb0e5d511853b05c3/lab_work/lab10.ipynb)
