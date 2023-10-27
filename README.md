@@ -21,5 +21,5 @@ Email: shruti.mall@msds.christuniversity.in
 |8.|18-09-23|lab08|Matrix Multiplication|[Lab08]()
 |9.|19-09-23|CAC2|CAC1|[CAC1](https://github.com/shrutimall123/MScDSA-MDS171-23122032-Shrutimall/blob/f29bd28d1a0eac64412fd8e48bede13d74bea645/CAC/cac1.py)
 |10.|22-09-23|lab09|Expense Tracker|[Lab09](https://github.com/shrutimall123/MScDSA-MDS171-23122032-Shrutimall/blob/2a1bba44b2da27a91410f6e440517c1a60f4ba64/lab09.ipynb)
-|11.|22-09-23|CAC2|Exploratory Data Analysis|[CAC2](https://github.com/shrutimall123/MScDSA-MDS171-23122032-Shrutimall/tree/520e895f4827a71165c2a7af5024a149b3548a5f/CAC/cac2)
+|11.|22-10-23|CAC2|Exploratory Data Analysis|[CAC2](https://github.com/shrutimall123/MScDSA-MDS171-23122032-Shrutimall/tree/520e895f4827a71165c2a7af5024a149b3548a5f/CAC/cac2)
 |12.|26-10-23|lab10|Student Details|[Lab 10](https://github.com/shrutimall123/MScDSA-MDS171-23122032-Shrutimall/blob/d7b2c3206c295327408a32bfb0e5d511853b05c3/lab_work/lab10.ipynb)
