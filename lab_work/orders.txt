@@ -2,3 +2,7 @@ pizza
 burger
 Pizza
 2
+Pizza
+Burger
+Pasta
+Biryani
